@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "twilio.account.sid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.account.sid'"
+  },
+  {
+    "name": "twilio.auth.token",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.auth.token'"
+  },
+  {
+    "name": "source.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'source.datasource.url'"
+  },
+  {
+    "name": "source.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'source.datasource.password'"
+  },
+  {
+    "name": "destination.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'destination.datasource.url'"
+  }
+]}
